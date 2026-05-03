@@ -1,2 +1,2 @@
 Iam Learnig Devops
-I'm learning git
+I'm learning Git
